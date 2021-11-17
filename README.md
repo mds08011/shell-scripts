@@ -149,3 +149,52 @@ Source: https://www.ubuntupit.com/simple-yet-effective-linux-shell-script-exampl
 | get-nav                 | Get NAV of a mutual fund from the Kuvera API                                                                                                                                        |
 | audiobook2video         | Generates a video for a music file, with a background                                                                                                                               |
 | fix-audible-m4a         | Third-party. Fixes audible m4a fiels with incorrect Audio Object Type Specific Config bit. Source: https://rentry.co/n4ost                                                          |
+
+| aps           |   ascii to .ps a file with specified fontsize (need a2ps installed)                                              |   |   |   |
+|---------------|------------------------------------------------------------------------------------------------------------------|---|---|---|
+| clnM          |   clean ^M from DOS files (using sed)                                                                            |   |   |   |
+| clnMdir       |   clean ^M from each file in [dir] or ./ (using sed)                                                             |   |   |   |
+| clnblanklines |   delete blank lines from a file                                                                                 |   |   |   |
+| clnduplines   |   clean duplicate lines in a file                                                                                |   |   |   |
+| clnmail       |   remove junk mail headers from a mail file                                                                      |   |   |   |
+| clnmaildir    |   remove junk mail headers from all mail files in a dir                                                          |   |   |   |
+| clnns         |   clean out the netscape cache                                                                                   |   |   |   |
+| clntex        |   clean out the tex/latex .aux .log                                                                              |   |   |   |
+| cntduplines   |   count duplicate lines in a file                                                                                |   |   |   |
+| cntfiles      |   count # of files and subdirs                                                                                   |   |   |   |
+| cntlast       |   count # of logins, sort output by user                                                                         |   |   |   |
+| cntword       |   count # of times a word appears in ./                                                                          |   |   |   |
+| deldir        |   delete an entire directory tree                                                                                |   |   |   |
+| dvi           |   dvips a .dvi file and produce .ps (need dvips installed)                                                       |   |   |   |
+| e1ps          |   enscript pretty .ps of $file with $fontsize $fontfamily                                                        |   |   |   |
+| e2ps          |   enscript pretty .ps to 2 columns                                                                               |   |   |   |
+| FtoC          |   Fahrenheit to Celcius conversion (using awk)                                                                   |   |   |   |
+| ffl           |   find file location (a simple glimpse substitute; see mkfiles)                                                  |   |   |   |
+| g2dvi         |   groff a file and produce file.dvi (need groff installed)                                                       |   |   |   |
+| g2ps          |   groff a file and produce file.ps (need groff installed)                                                        |   |   |   |
+| gplot gpgp    |   gnuplot via script: plot and view dat file and produce file.ps   (need: gplot, gpgp, gnuplot.sh, gnuplot_plot) |   |   |   |
+| killns        |   kill a messed up / frozen netscape                                                                             |   |   |   |
+| latex2ps      |   latex file.tex and produce file.ps (need latex installed)                                                      |   |   |   |
+| linkfiles     |   link each file from source_dir to targer_dir                                                                   |   |   |   |
+| listfonts     |   view xlsfonts with more                                                                                        |   |   |   |
+| mail2list     |   mail a msgfile to a list of addresses without mailalias                                                        |   |   |   |
+| manf          |   troff and view uninstalled man page file                                                                       |   |   |   |
+| manmo         |   view a manpage in a new xterm with more, ...                                                                   |   |   |   |
+| mkhtml.zip    |   create index.html listing all files in a dir as links                                                          |   |   |   |
+| mkfiles       |   create listing of files for easy finding with script "ffl"                                                     |   |   |   |
+| octalcharset  |   generate all characters from # \0000 to \0377                                                                  |   |   |   |
+| ps2html       |   convert .ps to .html with webify                                                                               |   |   |   |
+| psg           |   ps on "process", to see if running                                                                             |   |   |   |
+| pso           |   ps on owner processes, to see which running                                                                    |   |   |   |
+| psoA          |   ps on all processes, to see what's running                                                                     |   |   |   |
+| refs          |   find a name in Refs.list file (primitive database search)                                                      |   |   |   |
+| run           |   $aout < $data > $output and append timing to $output                                                           |   |   |   |
+| sg            |   remote get "file" from "host" (scp must be functioning)                                                        |   |   |   |
+| sp            |   remote put "file" to "host" (scp must be functioning)                                                          |   |   |   |
+| scbig         |   sc spreadsheet on "file".sc (big size: 160x60)(need sc installed)                                              |   |   |   |
+| scsmall       |   sc spreadsheet on "file".sc (small size: 120x35)(need sc)                                                      |   |   |   |
+| tarf          |   tar tf file.tar \| more                                                                                        |   |   |   |
+| tarx          |   tar xovf : untar a file.tar                                                                                    |   |   |   |
+| tr2html       |   convert troff (ms) file to HTML 2.0 with unroff (need unroff)                                                  |   |   |   |
+| up            |   uncompress/display/extract files of various types (.gz, .zip, .tar.gz, .Z) interactively ... very convenient!  |   |   |   |
+| zpdir         |   zip dir.zip dir/* (need zip, of course)                                                                        |   |   |   |
