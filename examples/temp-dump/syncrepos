@@ -1,0 +1,23 @@
+#!/bin/bash
+set -euo pipefail
+IFS=$'\n\t'
+
+PATH=$PATH:/home/nemo/projects/scripts/
+
+function sync_repo() {
+  if [[ -d "$1" ]]; then
+    pushd $1
+    git config --bool branch.master.sync true
+    git config --bool branch.master.syncNewFiles true
+    git config --bool branch.main.sync true
+    git config --bool branch.main.syncNewFiles true
+    git-sync
+    popd
+  fi
+}
+
+# xpad-notes
+sync_repo /home/nemo/.config/xpad yes
+# passwords
+sync_repo /home/nemo/.password-store
+sync_repo /home/nemo/.notable

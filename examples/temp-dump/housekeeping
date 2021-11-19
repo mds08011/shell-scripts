@@ -1,0 +1,51 @@
+#!/bin/bash
+
+# Run karn on all work projects so that my git identities are correct
+
+WORK_ROOT="/home/nemo/projects/work/razorpay"
+find $WORK_ROOT -maxdepth 2 -type d -iname .git  | xargs -I{} bash -c  "cd {}/.. && karn update"
+
+PERSONAL_ROOT="/home/nemo/projects/personal"
+find $PERSONAL_ROOT -maxdepth 2 -type d -iname .git  | xargs -I{} bash -c  "cd {}/.. && karn update"
+echo "karn update"
+
+find /home/nemo/.cache/yay -iregex '.*\.\(bz2\|tar\|zip\|deb\|xz\|part\|rpm\|gz\|zst\|AppImage\|pacman\|jar\)$' -delete
+echo "Cleared yay cache"
+
+find /home/nemo/projects/personal/aur-*  -iregex '.*\.\(bz2\|tar\|zip\|deb\|tar.zst\|xz\|part\|rpm\|gz\|tgz\)$' -delete
+echo "Cleared personal AUR cache"
+
+sudo pacman -Rns $(pacman -Qtdq)
+echo "Removing orphan packages"
+
+# Delete pacman cache files older than 7 days
+sudo find /var/cache/pacman/pkg -maxdepth 1 -mindepth 1 -mtime +7 -delete
+echo "Clearing pacman cache"
+
+# Clear systemd logs
+sudo journalctl --vacuum-size=100M
+
+# Clear docker stuff
+sudo docker system prune -af
+
+sudo rm -rf /usr/share/themes/NumixSolarizedLightMagenta
+sudo rm -rf /usr/share/themes/NumixSolarizedLightYellow
+sudo rm -rf /usr/share/themes/NumixSolarizedLightRed
+sudo rm -rf /usr/share/themes/NumixSolarizedDarkOrange
+sudo rm -rf /usr/share/themes/NumixSolarizedLightCyan
+sudo rm -rf /usr/share/themes/NumixSolarizedDarkGreen
+sudo rm -rf /usr/share/themes/NumixSolarizedLightBlue
+sudo rm -rf /usr/share/themes/NumixSolarizedDarkYellow
+sudo rm -rf /usr/share/themes/NumixSolarizedLightBlueDarkTop
+sudo rm -rf /usr/share/themes/NumixSolarizedDarkBlue
+sudo rm -rf /usr/share/themes/NumixSolarizedLightViolet
+sudo rm -rf /usr/share/themes/NumixSolarizedDarkViolet
+sudo rm -rf /usr/share/themes/NumixSolarizedLightOrange
+sudo rm -rf /usr/share/themes/NumixSolarizedDarkMagenta
+sudo rm -rf /usr/share/themes/NumixSolarizedDarkCyan
+
+## KEEP ALL NETWORK RELATED STUFF BELOW THIS
+echo "Going to try stuff that needs network access now"
+
+# Sync git repositories
+syncrepos

@@ -1,0 +1,14 @@
+#!/bin/bash
+# echo "Mounting Media via mount -a"
+#sudo mount -a 
+cd ~
+PWD="/home/nemo"
+cd $PWD
+MEDIA="/run/media/nemo/Media"
+rsync -a ./Music/English/ "$MEDIA/Music/English/" --size-only --no-links --info=progress2
+# rsync -a ./TV/ "$MEDIA/TV/" --size-only --no-links --info=progress2 --info=progress2
+# rsync -a ./Downloads/ "$MEDIA/Downloads/" --size-only --no-links --info=progress2
+# rsync -a ./Setups/ "$MEDIA/Setups/" --size-only --no-links --info=progress2
+# rsync -a ./Videos/ "$MEDIA/Videos/" --size-only --no-links --info=progress2
+# rsync -a ./VirtualDrives/ "$MEDIA/VirtualDrives/" --size-only --no-links --info=progress2
+# rsync -a ./Movies/ "$MEDIA/Movies/" --size-only --no-links --info=progress2

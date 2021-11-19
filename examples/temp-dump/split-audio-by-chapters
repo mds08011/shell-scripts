@@ -1,0 +1,63 @@
+#!/bin/bash
+IFS=$'\n\t'
+
+# Author: http://crunchbang.org/forums/viewtopic.php?id=38748#p414992
+# m4bronto
+# https://gist.github.com/dcondrey/469e2850e7f88ac198e8c3ff111bda7c
+# Modified to support a chapters.txt file with sequential list of chapter names
+# Run as split-audio-by-chapters file.m4a [chapters.txt]
+# Output files are sequential and generated
+
+
+# https://stackoverflow.com/a/3352015
+trim() {
+    local var="$*"
+    # remove leading whitespace characters
+    var="${var#"${var%%[![:space:]]*}"}"
+    # remove trailing whitespace characters
+    var="${var%"${var##*[![:space:]]}"}"
+    echo -n "$var"
+}
+
+CHAPTER_INDEX=0
+
+if [ -f "$2" ]; then
+  CHAPTERS_FILE_PASSED=1
+  echo "Reading chapters from $2"
+  readarray CHAPTERS < "$2"
+  IFS=$'\n\r'
+  IFS=$'\n\t'
+else
+  CHAPTERS_FILE_PASSED=0
+fi
+
+ffmpeg -i "$1" 2> /tmp/ffmpeg.txt
+
+while read -r first _ _ start _ end; do
+  unset IFS
+  if [[ "$first" = "Chapter" ]]; then
+    read -r
+    read -r _ _ CHAPTER_TITLE
+
+    REAL_CHAPTER_INDEX=$((CHAPTER_INDEX+1))
+    CHAPTER_INDEX_PADDED=$(printf "%03d" "${REAL_CHAPTER_INDEX}")
+
+    # If we are using a chapters.txt that is valid
+    if ((CHAPTERS_FILE_PASSED=="1")) ; then
+      CHAPTER_TITLE=${CHAPTERS[$CHAPTER_INDEX]}
+    fi
+
+    FILENAME="${CHAPTER_INDEX_PADDED} - $(trim "$CHAPTER_TITLE").m4a"
+
+    # -vsync 2 = Frames are passed through with their timestamp or dropped so as to prevent 2 frames from having the same timestamp.
+    # -sn = no subtitles
+    # -dn = no data stream
+    # -vn = no video stream
+    # -metadata title= put in a chapter title
+    # -acodec copy = copy the audio stream
+    ffmpeg -hide_banner -loglevel panic \
+      -vsync 2 -sn -dn -vn -i "$1" -ss "${start%?}" -to "$end" -metadata title="$CHAPTER_TITLE" -dn -vn -sn -acodec copy "$FILENAME" </dev/null
+
+    ((CHAPTER_INDEX++))
+  fi
+done </tmp/ffmpeg.txt
