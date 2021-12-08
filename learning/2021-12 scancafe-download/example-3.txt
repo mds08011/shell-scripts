@@ -1,0 +1,16 @@
+
+echo "http://fake.url/334.pdf natasha.pdf
+http://fake.url/5536.pdf wombat.pdf
+http://fake.url/2.pdf tau.pdf" |
+awk '{print "wget "$1" -O "$2}' |
+bash
+
+
+
+I don't know how much of it makes sense, but just put it all in a script file (in your home dir), with a name like dlfiles.sh, and then run:
+
+Code:
+
+bash ~/dlfiles.sh
+
+For each in the echo statement, put in the URL, followed by the desired filename.

@@ -1,0 +1,26 @@
+
+#! /usr/bin/env bash
+
+if [ -z $1 ] || egrep -qv '^https?:\/\/[^[:space:]]+' $1; then
+  echo "Usage: $0 FILE"
+  echo "FILE must be a newline-separated list of URLs."
+  exit
+fi
+
+INPUT_FILE=$1
+OUTPUT_DIRECTORY="${INPUT_FILE%.*}"
+
+mkdir -p $OUTPUT_DIRECTORY
+
+i=1
+while read URL; do
+  FILENAME="${URL##*/}"
+  curl -L $URL > "${OUTPUT_DIRECTORY}/${i}_${FILENAME}"
+  i=$(($i+1))
+done < $INPUT_FILE
+
+This script will download all the URLs in a given file into a directory named after the input file with the extension stripped.
+
+If you wanted to use this with, say, a thousand text files, you can use a for loop like so:
+
+for FILE in $(ls *.txt); do ./download_from_file $FILE; done

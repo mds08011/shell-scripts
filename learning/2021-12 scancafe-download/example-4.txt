@@ -1,0 +1,13 @@
+To update the download status in the third column, create a new file with the updated data.
+
+while IFS=, read -r new_name url status; do
+  wget -q -O "/mnt/nas_1tb/a-test/$new_name" "$url"
+  case $? in
+    0) status='File fownloaded';;
+    8) status='File not found or server error';;
+    *) status='Download failed';;
+  esac
+  printf '%s,%s,%s\n' "$new_name" "$url" "$status"
+done <test.csv >test-results.csv
+
+Note that wget doesn't make it easy to distinguish “file not found” (HTTP 404) from other errors (e.g. HTTP 403 not authorized, HTTP 500 server internal error, etc.). But you do at least get different errors for errors when the server couldn't return a response.

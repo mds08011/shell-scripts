@@ -1,0 +1,34 @@
+$folder = "D:\Output\"
+$userAgent = "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1"
+$web = New-Object System.Net.WebClient
+$web.Headers.Add("user-agent", $userAgent)
+$input = "D:\todownload.txt"
+$delimit = " "
+
+Get-Content $input |
+    Foreach-Object { 
+        $line = $_.split($delimit);
+        $destination_file = ([io.path]::getfilename($line[1]))
+        "[" + $destination_file  + "]" + "Downloading " + $line[0]
+        try {
+            $target = join-path $folder $destination_file
+            $web.DownloadFile($line[0], $target)
+        } catch {
+            $_.Exception.Message + ": " + $destination_file
+            add-content (join-path $folder ("downloader" + ".log")) ("[" + $destination_file + "] " + $_.Exception.Message)
+            add-content (join-path $folder ("downloader" + ".retry")) ($line -join " ")
+        }
+    }
+
+
+
+
+
+
+
+
+
+The input file (todownload.txt) is in the format:
+
+http://path.to.download.com/file.jpg 0001_NewFileName_file.jpg
+

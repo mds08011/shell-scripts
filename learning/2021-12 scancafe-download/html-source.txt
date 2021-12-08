@@ -1,0 +1,994 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="p:domain_verify" content="59f286e1a314126db2a43dfa4b22fcb7" />
+<link rel="canonical" href="https://www.scancafe.com/download">
+<script type="text/javascript">/* current page is yahoo_tracking.inc */</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-829029-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+</script>
+
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1063370866; //nelson
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" async src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1063370866/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5JSPSZ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5JSPSZ');</script>
+
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Language" content="en-US" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+
+<link href="/media/library/css/allcombine.css?_=1636960185" media="all" rel="stylesheet" type="text/css" />
+<link href="/media/library/css/fb_lightwind_for_login_css/skitter.styles.css?_=1574920166" media="all" rel="stylesheet" type="text/css" />
+<!--[if IE]>
+        <link href="/media/library/css/ie.css?_=1574920166" media="all" rel="stylesheet" type="text/css" />
+    <![endif]-->
+
+<link href="/media/library/css/jquery.fancybox.css?_=1574920166" media="all" rel="stylesheet" type="text/css" />
+
+<link href="/media/library/css/jquery-ui/start/jquery-ui-1.7.1.custom.css?_=1574920166" media="all" rel="stylesheet" type="text/css" />
+<style type="text/css" media="screen">
+        <!--
+        /*#header{
+            height:146px;
+        }*/
+        -->
+    </style>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.3.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.7.1/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/media/library/js/allcombine.js"></script>
+
+<script type="text/javascript" src="/codelibrary/js/checkoutflow.js"></script>
+<script type="text/javascript" src="/media/library/js/jquery.cycle.min.js"></script>
+<script type="text/javascript" src="/media/library/js/jquery.flash.min.js"></script>
+<script type="text/javascript" src="/media/library/js/jquery.sifr.min.js"></script>
+<script type="text/javascript" src="/media/library/js/jquery.fancybox-1.0.0.js"></script>
+<script type="text/javascript" src="/media/library/js/jquery.simplemodal.js"></script>
+<script type="text/javascript" src="/media/library/js/fb_lightwind_for_login_js/jquery.animate-colors-min.js"></script>
+<script type="text/javascript" src="/media/library/js/fb_lightwind_for_login_js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="/media/library/js/fb_lightwind_for_login_js/jquery.skitter.min.js"></script>
+<script type="text/javascript">
+        $(document).ready(function() {
+        $(".box_skitter_large").skitter({
+                    animation: "fade",
+                     sleep: 2,
+                     speed: 5000,
+                     fade: 1,
+                     opacity: 0.5
+                });
+
+            // Load dialog on click
+            $('#basic-modal .basic').click(function (e) {
+                $('#basic-modal-content').modal();
+                return false;
+            });
+        });
+
+      </script>
+<title>Order Download</title>
+
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '225734167831257');
+
+    fbq('track', "PageView");
+</script>
+
+
+</head>
+<body id="home">
+<div id="fb-root"></div>
+<script>
+    window.fbAsyncInit = function() {
+        FB.init({
+            appId      : '109951248317',
+            channelUrl : '//www.scancafe.com/channel.html', // Channel File
+            status     : false,
+            cookie     : true,
+            xfbml      : true,
+            oauth      : true
+        });
+    };
+    (function(d){
+        var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+        js = d.createElement('script'); js.id = id; js.async = true;
+        js.src = "//connect.facebook.net/en_US/all.js";
+        d.getElementsByTagName('head')[0].appendChild(js);
+    }(document));
+    </script>
+<script type="text/javascript">
+
+                try
+                {
+                    (function(i, s, o, g, r, a, m){
+                    i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function(){
+                    (i[r].q = i[r].q || []).push(arguments)}, i[r].l = 1 * new Date(); a = s.createElement(o),
+                            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+                    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+                   
+                    window.addEventListener('load', function(){
+                        var data = {
+                                message: 'window.addEventListener load',
+                                trackingId: '',
+                                type: 'detailed'
+                    }
+                                $.post('https://www.scancafe.com/admin/ga_log.php', data);
+
+                        if (ga.hasOwnProperty('loaded') && ga.loaded === true) {
+                            var data = {
+                                message: 'Ga object created',
+                                trackingId: '',
+                                type: 'detailed'
+                    }
+                                    $.post('https://www.scancafe.com/admin/ga_log.php', data);
+                            ga('create', 'UA-829029-1', 'auto');
+
+
+                            ga('require', 'ecommerce');
+                                                                                                                                        }
+                        else
+                        {
+                            var data = {
+                                message: 'Ga is not loaded in the client',
+                                trackingId: '',
+                                type: 'failed'
+                    }
+                                    $.post('https://www.scancafe.com/admin/ga_log.php', data);
+                        }
+                    },false);
+                }
+                catch(err)
+                {
+                    var data = {
+                                message: 'errmessage',
+                                trackingId: '',
+                                type: 'failed'
+                    }
+                            $.post('https://www.scancafe.com/admin/ga_log.php', data);
+
+                }
+            </script>
+<div>
+<div id="wrap">
+<ul class="skip">
+<li><a href="#nav">Skip to Navigation</a></li>
+<li><a href="#body">Skip to Content</a></li>
+</ul>
+
+<div class="unboxDefault">
+<div id="specialOffer"></div>
+</div>
+<div id="header">
+<span id="logo"><a href="/" class="replace">ScanCafe</a></span>
+<p id="tagline"><strong>Your memories deserve the best</strong></p>
+<ul id="topNav" class="nav bars" style="font-family: Arial,Helvetica,sans-serif;">
+<li class="first" style="padding-top:3px;"><a href="/account/my-account" style="text-decoration: none; font-family: Arial,Helvetica,sans-serif;">Welcome, MALCOLM</a></li>
+<li style="padding-top:3px;"><a href="/logout.php">Sign Out</a></li>
+<li style="padding-top:3px; text-align: right;">
+<a title="Contact Us" href="/contact-us">Contact Us</a>
+</li>
+
+</ul>
+<p id="topStat"><span id="scannedImages"></span></p>
+<style type="text/css">
+                    .menu-ul li{
+                        width: 120px;
+                    }
+                    .menu-ul li a{
+                        width: 120px;
+                        padding: 0 !important;
+                        text-align: center;
+                    }
+                    .submenu{
+                        position: absolute;
+                        width: 94.6%;
+                    }
+                  </style>
+<ul id="nav" class="nav index_first_li  menu-ul">
+<li><a onmouseover="showSubMenu('submenu-services')" onclick="showSubMenu('submenu-services')" title="ScanCafe negative, photo and slide scanning services" class="menu-link " href="/services">Services</a></li>
+
+<li><a onmouseover="showSubMenu('submenu-qualitysafety')" onclick="showSubMenu('submenu-qualitysafety')" title="Get high resolution scanned images with color correction, scratch and red-eye removal by hand" class="menu-link " href="/image-preservation/image-preservation-overview">Quality & Safety</a></li>
+
+<li><a onmouseover="showSubMenu('submenu-resources')" onclick="showSubMenu('submenu-resources')" title="About the ScanCafe Team" class="menu-link ">Resources</a></li>
+
+<li><a onmouseover="showSubMenu('submenu-howitworks')" onclick="showSubMenu('submenu-howitworks')" title="How the ScanCafe scanning process works and FAQs" class="menu-link " href="/how/how-it-works-overview">How It Works</a></li>
+
+<li><a onmouseover="showSubMenu('submenu-pricing')" onclick="showSubMenu('submenu-pricing')" title="ScanCafe Scanning Pricing" class="menu-link " href="/pricing">Pricing</a></li>
+<li style="width: 115px;"><a title="Access your ScanCafe account" href="/account/my-account" class="active" style="width: 115px;">My Account</a></li>
+<li><a onmouseover="showSubMenu('submenu-contactus')" onclick="showSubMenu('submenu-contactus')" title="ScanCafe Scanning Contact Us" class="menu-link ">Contact Us</a></li>
+</ul>
+<a href=/quantity.php class="btn bluebtnd" style=" margin-top: 94px; float:right; position:relative;margin-right: calc(50% - 455px)">
+<span>Start Here</span>
+</a>
+</div>
+
+<style type="text/css">
+  .submenu{
+    margin-top: 128px;border:solid 2px #333;background-color: #fff;display: none;z-index: 1100000;border-top: none;padding-bottom: 15px;height: auto;
+  }
+  .subsection{
+    width: 20%;height: 100%;background-color: #fff;float: left;
+  }
+  .subsection-four{
+    width: 25%;
+  }
+  .subsection-guide{
+    width: 40%
+  }
+  .subsection-six{
+    width: 16.66%;
+    float:left;
+    height: 100%;
+    background-color: #fff;
+  }
+  .subsection-item{ min-height: 25px;height: auto; width: 90%;float: left;font-size: 14px;font-weight: normal;color: #333;line-height: 25px;text-align: left;cursor: pointer;padding-left: 10%;
+  }
+  .subsection-item:hover{
+    background-color: #f3f3f3;
+  }
+  .subsection-head{
+    cursor: auto;font-size: 16px;font-weight: bold;height: 40px;line-height: 40px;text-align: left;width: 90%;padding-left: 10%;
+  }
+  .subsection-head-link{
+    cursor: pointer;
+  }
+  .subsection-head-link:hover{
+    cursor: pointer;
+    background-color: #f3f3f3 !important;
+  }
+  .subsection-head:hover{
+    background-color: #fff;
+  }
+  .subsection-item a, .subsection-item a:hover, .subsection-head a, .subsection-head a:hover{
+  text-decoration: none;color: #333;
+  }
+ /* #submenu-services{
+    height:200px;
+  }
+  #submenu-quality-safety{
+    height: 140px;
+  }*/
+</style>
+<div class="submenu" id="submenu-services">
+<div class="subsection-six subsection-left">
+<div class="subsection-item subsection-head">Photos</div>
+<div class="subsection-item"><a href="/services/photo-scanning">Photo Scanning</a></div>
+<div class="subsection-item"><a href="/services/slide-scanning">Slide Scanning</a></div>
+<div class="subsection-item"><a href="/services/aps">APS Film Scanning</a></div>
+<div class="subsection-item"><a href="/services/black-white-scanning">Black & White Negative Scanning</a></div>
+<div class="subsection-item"><a href="/services/negative-scanning">Negative Scanning</a></div>
+</div>
+<div class="subsection-six">
+<div class="subsection-item subsection-head subsection-head-link"><a href="/services/video-transfer-to-DVD"> Videos </a></div>
+<div class="subsection-item"><a href="/services/video/vhs-to-digital-conversion">VHS/VHS-C</a></div>
+<div class="subsection-item"><a href="/services/video/hi8-to-digital-conversion">Hi8/Digital8</a></div>
+<div class="subsection-item"><a href="/services/video/minidv-to-digital-conversion">MiniDV</a></div>
+</div>
+<div class="subsection-six">
+<div class="subsection-item subsection-head">Audio</div>
+<div class="subsection-item"><a href="/services/audio/cassette-tapes-to-digital">Audio Cassette Tapes </a></div>
+<div class="subsection-item"><a href="/services/audio/reel-to-reel-audio-to-digital">Reel to Reel Tapes</a></div>
+</div>
+<div class="subsection-six">
+<div class="subsection-item subsection-head subsection-head-link"><a href="/services/movies"> Movies</a></div>
+<div class="subsection-item"><a href="/services/movies/8mm-film-digital-conversion">8MM </a></div>
+<div class="subsection-item"><a href="/services/movies/16mm-film-digital-conversion">16MM</a></div>
+<div class="subsection-item"><a href="/services/movies/35mm-film-digital-conversion">35MM</a></div>
+<div class="subsection-item"><a href="/services/movies/super-8-digital-conversion">Super8</a></div>
+</div>
+<div class="subsection-six">
+<div class="subsection-item subsection-head subsection-head-link"><a href="/services/photo-restoration"> Restorations</a></div>
+<div class="subsection-item"><a href="/services/photo-restoration#enhancement">Photo Enhancement </a></div>
+<div class="subsection-item"><a href="/image-preservation/image-preservation-overview">Photo Preservation</a></div>
+<div class="subsection-item subsection-head subsection-head-link"><a href="/services/pro-options">Pro Options</a></div>
+</div>
+<div class="subsection-six">
+<div class="subsection-item subsection-head">Gifts</div>
+<div class="subsection-item"><a href="/services/gift-box">Gift Box </a></div>
+<div class="subsection-item"><a href="/services/gift-card">Gift Card</a></div>
+<div class="subsection-item subsection-head subsection-head-link"><a href="/services/valuekit-product">ValueKit</a></div>
+</div>
+</div>
+<div class="submenu" id="submenu-qualitysafety">
+<div class="subsection subsection-left">
+<div class="subsection-item subsection-head subsection-head-link"><a href="/image-preservation/videotape-decay"> Video Tape Decay</a></div>
+<div class="subsection-item subsection-head subsection-head-link"><a href="/image-preservation/film-decay"> Movie Tape Decay</a></div>
+</div>
+<div class="subsection">
+<div class="subsection-item subsection-head subsection-head-link"><a href="/image-preservation/do-it-yourself">DIY</a></div>
+</div>
+<div class="subsection">
+<div class="subsection-item subsection-head subsection-head-link"><a href="/scanning-quality/resolution"> Resolution</a></div>
+<div class="subsection-item subsection-head subsection-head-link"><a href="/scanning-quality/color-correction"> Color Correction</a></div>
+</div>
+<div class="subsection">
+<div class="subsection-item subsection-head subsection-head-link"><a href="/scanning-quality/scratch-removal">Scratch Removal</a></div>
+<div class="subsection-item subsection-head subsection-head-link"><a href="/scanning-quality/red-eye-removal">Red-Eye Removal</a></div>
+</div>
+<div class="subsection">
+<div class="subsection-item subsection-head subsection-head-link"><a href="/scanning-quality/equipment">Equipment</a> </div>
+
+</div>
+</div>
+<div class="submenu" id="submenu-resources">
+<div class="subsection" style="width: 15%;">
+<div class="subsection-item subsection-head subsection-head-link"><a href="/about-us">About Us</a></div>
+
+</div>
+<div class="subsection" style="width: 40%;">
+<div class="subsection-item subsection-head">Guides</div>
+<div class="subsection-item"><a href="/convert-slides-to-digital-guide">How to Convert Slides to Digital Guide</a></div>
+<div class="subsection-item"><a href="/convert-vhs-to-dvd-guide">VHS to DVD: How to Convert VHS to Digital Guide </a></div>
+<div class="subsection-item"><a href="/convert-film-reel-to-digital">Convert Film Reel to Digital</a></div>
+
+</div>
+<div class="subsection" style="width: 15%;">
+<div class="subsection-item subsection-head  subsection-head-link"><a href="/how-to">How To</a></div>
+<div class="subsection-item subsection-head subsection-head-link"><a href="/blog">Blog</a></div>
+
+</div>
+<div class="subsection" style="width: 15%;">
+<div class="subsection-item subsection-head subsection-head-link"><a href="/testimonials">Testimonials</a></div>
+
+</div>
+<div class="subsection" style="width: 15%;">
+<div class="subsection-item subsection-head subsection-head-link"><a href="/faq">FAQ </a></div>
+</div>
+</div>
+<div class="submenu" id="submenu-howitworks">
+<div class="subsection">
+<div class="subsection-item subsection-head subsection-head-link"><a href="/how/scanning-how-it-works">Photo</a></div>
+</div>
+<div class="subsection">
+<div class="subsection-item subsection-head subsection-head-link"><a href="/how/video-how-it-works">Video</a></div>
+</div>
+<div class="subsection">
+<div class="subsection-item subsection-head subsection-head-link"><a href="/how/film-how-it-works">Movies</a></div>
+</div>
+<div class="subsection">
+<div class="subsection-item subsection-head subsection-head-link"><a href="/how/packing-tips">Packing Tips</a></div>
+</div>
+<div class="subsection">
+<div class="subsection-item subsection-head subsection-head-link"><a href="/how/photo-restoration-process">Photo Restoration </a></div>
+</div>
+</div>
+<div class="submenu" id="submenu-pricing">
+<div class="subsection subsection-left" style="margin-left: 55%;">
+<div class="subsection-item subsection-head subsection-head-link"><a href="/pricing">Pricing</a></div>
+
+<div class="subsection-item"><a href="/pricing/pricecomparison">Photo Price Comparison </a></div>
+<div class="subsection-item"><a href="/pricing/filmpricecomparison">Film Price Comparison </a></div>
+<div class="subsection-item"><a href=""><a href="/pricing/photo-restoration-prices">Photo Restoration</a></div>
+</div>
+</div>
+<div class="submenu" id="submenu-contactus">
+<div class="subsection subsection-left" style="margin-left: 67%;">
+<div class="subsection-item subsection-head">Contact Us</div>
+<div class="subsection-item"><a href="/contact-us">Contact Us</a></div>
+<div class="subsection-item"><a href=""><a href="/locations/chicago">Chicago Location </a></div>
+</div>
+</div>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.3.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.7.1/jquery-ui.min.js"></script>
+<script type="text/javascript">
+  $(window).mousemove(function() {
+    if(!$(event.target).closest(".submenu").length && !$(event.target).closest(".menu-link").length){
+        $(".submenu").fadeOut('fast');
+    }
+  });
+
+  function showSubMenu(menuName){
+   $(".submenu").fadeOut('fast');
+   $("#"+menuName).fadeIn('fast');
+  }
+</script>
+<div id="body">
+<div id="colL">
+<h1 class="small sifr sIFR-replaced" style="margin-bottom: 0;">Download your order #W21AUPH267W</h1>
+<p style="color: #BDBDBD;"><strong>ELECTRONIC DELIVERY</strong></p>
+
+<p>Click on link(s) below, to save them onto your computer or any other device.</p>
+<h2 class="sifr sIFR-replaced" style="margin: -14px 0 20px;">Videos</h2>
+<ul>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_001.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_001.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">Peru Slides 85</button>
+</form>
+</li>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_002.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_002.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">Marions 90th Celebrated 12/96</button>
+</form>
+</li>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_005.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_005.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">12/90 Xmas Eve</button>
+</form>
+</li>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_006.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_006.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">Dec 92 Eve Unloading Van</button>
+</form>
+</li>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_007.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_007.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">Malcolms First Week</button>
+</form>
+</li>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_008.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_008.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">A Historical Pictorial</button>
+</form>
+</li>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_009.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_009.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">Bob And Eve</button>
+</form>
+</li>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_010.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_010.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">Michael And Rachels Wedding Reception</button>
+</form>
+</li>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_011.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_011.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">Joe And Helenas Wedding </button>
+</form>
+</li>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_012.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_012.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">Malcolm Boppas Van</button>
+</form>
+</li>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_013.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_013.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">Marions 90th Celebrated 96</button>
+</form>
+</li>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_014.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_014.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">Malcolm May-June 91</button>
+</form>
+</li>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_015.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_015.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">Christmas At The Clanks 93</button>
+</form>
+</li>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_016.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_016.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">Emma 13 Months And First Steps</button>
+</form>
+</li>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_018.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_018.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">Hawaii Xmas 96</button>
+</form>
+</li>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_019.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_019.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">Spring 02 Hawaii</button>
+</form>
+</li>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_020.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_020.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">Slides San Diego</button>
+</form>
+</li>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_021.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_021.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">98 Summer Vacation</button>
+</form>
+</li>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_023.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_023.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">Steves Jr High Graduation 03</button>
+</form>
+</li>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_024.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_024.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">Rachael And Mikes Wedding Nov 92</button>
+</form>
+</li>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_026.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_026.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">JJs Baptismal Mar 92</button>
+</form>
+</li>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_027.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_027.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">Easter 93</button>
+</form>
+</li>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_028.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_028.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">Hawaii Vacation 92</button>
+</form>
+</li>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_031.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_031.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">Kids Toys 90</button>
+</form>
+</li>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_032.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_032.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">Vagas World Vacation 91</button>
+</form>
+</li>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_033.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_033.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">Tim On Tonite Show 94</button>
+</form>
+</li>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_035.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_035.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">Grandpas Birthday Party 92</button>
+</form>
+</li>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_036.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_036.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">2000 Rach Emmas Piano</button>
+</form>
+</li>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_037.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_037.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">Dakota Vacation 8/91</button>
+</form>
+</li>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_038.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_038.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">Hawaii Family Vacation </button>
+</form>
+</li>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_040.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_040.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">Steve Easter 91</button>
+</form>
+</li>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_041.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_041.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">Dec 92 Xmas Morning</button>
+</form>
+</li>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_042.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_042.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">Racheals Paddling Race</button>
+</form>
+</li>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_043.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_043.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">Family Hawaii Vacation 11/92</button>
+</form>
+</li>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_044.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_044.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">Summer 01</button>
+</form>
+</li>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_046.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_046.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">Vacation Movies</button>
+</form>
+</li>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_047.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_047.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">Christmas At Clarks 93</button>
+</form>
+</li>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_048.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_048.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">Xmas 94</button>
+</form>
+</li>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_049.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_049.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">Emma 2-3 Weeks</button>
+</form>
+</li>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_050.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_050.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">South Dakota 04</button>
+</form>
+</li>
+<li>
+<form method="post" target="_blank" action="https://www.scancafe.com/video_download.php" class="inline">
+<input type="hidden" name="url" value="http://m.scancafe.com/W21AUPH267W/W21AUPH267W_VIDEO_051.mp4">
+<input type="hidden" name="filename" value="W21AUPH267W_VIDEO_051.mp4">
+<button type="submit" name="submit_param" value="submit_value" class="link-button" style="font-size: 16px; font-weight: bold; color:#1AB7EA;text-decoration:none;outline:0; padding-left: 39px;">ESPN Hawaii Sports Adventure </button>
+</form>
+</li>
+</ul>
+<ul>
+</ul>
+<ul>
+</ul>
+<p style="margin: 100px 0 20px;">Please make sure that your internet access is uninterrupted while your downloads are in progress.</p>
+<p>Your originals and selected delivery media (if any) are being shipped to you separately.</p>
+<p>*Digital download links are valid for 30 days from the day order was final completed.</p>
+</div>
+
+<ul id="colR">
+<li class="block quick-facts">
+<h3>How to Open Your Files</h3>
+<p>
+<img style="margin-bottom: 50px;" width="90" height="90" class="nw" src="/media/library/img/winzip.gif">
+.zip files can be opened using WinZip, a file com-<br />pression utility. Free trial versions are available at these locations:
+<br /><br />
+<a target="_blank" href="http://www.winzip.com/win/en/index.htm">download for PC</a><br />
+<a target="_blank" href="http://www.winzip.com/mac/en/index.htm">download for Mac</a>
+<span class="br"></span> </p>
+</li>
+</ul>
+
+</div>
+
+
+<div class="clear"></div>
+<div id="footer">
+<div class="callToAction">
+<span class="callToActionMessage">Award-winning quality and guaranteed safety at industry-beating prices.</span>
+
+<a href="/quantity.php" class="btn bluebtnd">
+<span>Scan Now</span>
+</a>
+</div>
+<style type="text/css">
+                    .hfn{
+                        margin: 0 19.5px 22px 0 !important;
+                    }
+                    .home-footer_new{
+                        width: 290px !important;
+                    }
+                </style>
+<div class="home-footer_new1 hfn"><span class="picture"><a href="/services/video-transfer-to-DVD"><span class="picture1"><div class="sprite_footer1"> </div></span></a></span> <p style="text-align:center;"></p></div>
+
+<div class="home-footer_new1 hfn"><span class="picture"><a href="/services/movies"><span class="picture1"><div class="sprite_footer2"> </div></span></a></span><p style="text-align:center;"></p></div>
+<div class="home-footer_new1 hfn"><span class="picture"><a href="/services/negative-scanning"><span class="picture1"><div class="sprite_footer3"> </div></span> </a></span> <p style="text-align:center;"></p></div>
+<div class="home-footer_new1 hfn"><span class="picture"><a href="/services/slide-scanning"><span class="picture1"><div class="sprite_footer4"> </div> </span></a></span><p style="text-align:center;"></p></div>
+<div class="home-footer_new1 hfn"><span class="picture"><a href="/services/photo-scanning"><span class="picture1"><div class="sprite_footer5"> </div> </span></a></span><p style="text-align:center;"></p></div>
+<div class="home-footer_new1 hfn"><span class="picture"><a href="/services/photo-restoration"><span class="picture1"><div class="sprite_footer6"> </div> </span></a></span><p style="text-align:center;"></p></div>
+<div class="home-footer_new1 hfn"><span class="picture"><a href="/services/valuekit-product"><span class="picture1"><div class="sprite_footer7"></div> </span></a></span><p style="text-align:center;"></p></div>
+<div class="home-footer_new">
+<div class="fB_control">
+<div class="fb-like" data-href="https://www.facebook.com/scancafehome" data-send="false" data-width="254" data-show-faces="false" style="float:left; width:244px !important; padding-bottom: 3px; margin-left: 0px;"></div>
+</div>
+<div class="clear"></div>
+<a target="_blank" href="https://www.facebook.com/scancafehome"><div class="sprite_facebook01"></div> </a>
+<style type="text/css">
+              .pinterestStyle{
+                width: 35px;
+                height: 35px;
+                float: left;
+                margin-right: 2px;
+                margin-left: 5px;
+                background-image:url('/media/webp/pinterest.webp?a=123');
+                background-size: 35px 35px;
+                cursor: pointer;
+              }
+            </style>
+<a href="https://www.pinterest.com/ScanCafe/"><div class="pinterestStyle"></div> </a>
+<a href="https://www.youtube.com/channel/UCLAUn5vxUx7m1HUUUu62nfA"><div class="sprite_youtube02"></div></a>
+<a href="https://twitter.com/scancafe"><div class="sprite_twitter03"></div> </a>
+</div>
+<div style="clear:both;"></div>
+
+</div>
+<div class="subscribe_container">
+<div class="subscribe_review">
+<div class="subscribe_review_yelp">
+<a href="https://www.yelp.com/biz/scancafe-indianapolis-2" target="_blank" border="0">
+<img src="/media/webp/03_yelp_logo.webp" alt="Yelp" border="0" />
+</a>
+<div style=" text-align:center; " class="People_love_us">
+<a href="https://www.yelp.com/biz/scancafe-indianapolis-2" target="_blank">People Love Us</a>
+</div>
+</div>
+
+<div class="subscribe_review_paypal" style="margin-left: 60px;">
+<img src="/media/webp/04_paypal.webp" alt="PayPal" border="0" />
+<div class="text-center paypal_verified">PayPal Verified</div>
+</div>
+</div>
+<div class="subscribe_email">
+<div style="float: left; ">
+<div class="sub_email_text" style="padding-top: 0px;margin-top: -10px;height: 50px;line-height: 16px;"><span style="font-size: 16px;">Subscribe to Our Emails</span><br />
+Don’t miss out on promos,<br>
+how to properly save your<br>
+memories, and more
+</div>
+</div>
+<div class="subscribe_email_enter" id="promoEmailBlock" style="width: 190px;">
+<form method="POST" action="/promo-email" id="newsletter_form" style='width: 214px;' onsubmit="return submitPromoForm();">
+<input type="text" name="promoEmailBlock_emailfield" id="promoEmailBlock_emailfield" class="subscribe_email_enter_text" placeholder="Enter Your E-mail" maxlength="200" style="border: none; padding-top: 16px; background-color:#fbfbfb;" />
+<a id="promoEmailBlock_submit" href='javascript: void(0);' onclick="javascript: submitPromoForm();">
+<div class="subscribe_email_send"> Send </div></a>
+</div>
+<span id='promoEmailBlockMessage' style='margin-left: 215px; color: red;'>&nbsp;</span>
+</form>
+</div>
+</div>
+</div>
+<div id="wrap" class="lowest_footer">
+<div style="display: block; width: 100%; float: left; position: relative;">
+<text>
+<ul class="nav bars">
+
+<li><a title="About the ScanCafe Team" href="/about-us">About Us</a></li>
+<li><a title="Contact Us" href="/contact-us">Contact Us</a></li>
+<li><a title="ScanCafe Blog" href="/blog/">Blog</a></li>
+<li><a title="ScanCafe How to" href="/how-to">How To</a></li>
+<li><a title="Privacy Policy and Terms of Use" href="/legal">Legal</a></li>
+<li><a title="Frequently Asked Questions about ScanCafe services" href="/faq">FAQ</a></li>
+<li><a href="/sitemap">Sitemap</a></li>
+<li><a title="Photo Restoration" href="/services/photo-restoration">Photo Restoration</a></li>
+<li><a title="Gallery of customer photos" href="/gallery">Gallery</a></li>
+
+</ul>
+<p id="copy">Copyright ©2006-21 ScanCafe Indiana Holdings LLC. All Rights Reserved.</p>
+
+
+<div style="height:22px"></div>
+</text></div>
+</div>
+<div style="clear: both;"> </div>
+<div class="home_page_footer" style="width: 100vw;height: 165px;color: #111;background-color: #efefef;padding-top: 10px;display: none;">
+<script data-cfasync="false">window.ju_num="AAEB7ABD-468B-459F-A8BC-D919CA6B03C6";window.asset_host='//cdn.jst.ai/';(function(i,s,o,g,r,a,m){i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)};a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script',asset_host+'vck.js','juapp');</script>
+<script async type="text/javascript" src="//static.klaviyo.com/onsite/js/klaviyo.js?company_id=T7KJMz"></script>
+<script>
+      var _learnq = _learnq || [];
+
+      _learnq.push(['identify', {
+        // Change the line below to dynamically print the user's email.
+        '$email' : 'mds08011+scancafe@protonmail.com'
+      }]);
+    </script>
+<style type="text/css">
+      .footer-list{
+        width: 21%;
+        height: 165px;
+        text-align: left;
+        float: left;
+        padding-left: 12%;
+        /*border-top: 1px solid #dedede;*/
+        
+
+      }
+      .footer-list-head{
+        font-weight: bold;
+        font-size: 18px;
+        width: 100%;
+        float: left;
+        height: 25px;
+        padding-top: 10px;
+      }
+      .footer-list-sub{
+        /*font-weight: bold;*/
+        font-size: 14px;
+        width: 100%;
+        float: left;
+        height: 20px;
+        padding-top: 10px;
+      }
+      .footer-list-sub a{
+        cursor: pointer;
+        color: #333;
+        text-decoration : none;
+      }
+    </style>
+<div class="footer-list">
+<div class="footer-list-head">About Scancafe</div>
+<div class="footer-list-sub"><a href="/about-us">About Us</a></div>
+
+<div class="footer-list-sub"><a href="/blog/">Blog</a></div>
+<div class="footer-list-sub"><a href="/sitemap">Sitemap</a></div>
+</div>
+<div class="footer-list">
+<div class="footer-list-head">How can we help?</div>
+<div class="footer-list-sub"><a href="/contact-us">Contact Us</a></div>
+<div class="footer-list-sub"><a href="/how-to">How To</a></div>
+<div class="footer-list-sub"><a href="/faq">FAQ</a></div>
+<div class="footer-list-sub"><a href="/legal">Legal</a></div>
+</div>
+<div class="footer-list">
+<div class="footer-list-head">Our Services</div>
+<div class="footer-list-sub"><a href="/services/photo-restoration">Photo Restoration</a></div>
+<div class="footer-list-sub"><a href="/gallery">Gallery</a></div>
+
+</div>
+</div>
+<div class="footer_pricing" style="width: 100vw;background-color: silver; padding:20px;color: #fff;background-color: #000;text-align: center;display: none;">
+Copyright &copy; 2006-21 ScanCafe Inc. All Rights Reserved.
+</div>
+</div>
+
+</div>
+</div>
+<script type="text/javascript">/* current page is msn_tracking.inc */</script>
+
+<script>
+
+(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"4061795"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");
+
+
+function CustomerRegistration() {
+    password = document.getElementById("password").value;
+    if(password)
+    {
+        document.getElementById("customer_type_old").checked = true;
+        document.getElementById("customer_type_new").checked = false;
+    }
+    customer_type_new = document.getElementById("customer_type_new").checked;
+    customer_type_old = document.getElementById("customer_type_old").checked;
+    //console.log('CustomerRegistration called');
+    //console.log('customer_type_new ', customer_type_new);
+    //console.log('customer_type_old ', customer_type_old);
+    //console.log('password ', password);
+
+    if(customer_type_new) {
+        window.uetq = window.uetq || [];
+        window.uetq.push ('event', 'registrationbuttonclick', {});
+        //console.log('Bing Fired');
+    }
+    // else  console.log('Bing Not Fired');
+}
+
+function BingEmailSignup() {
+    // console.log('BingEmailSignup called');
+    window.uetq = window.uetq || [];
+    window.uetq.push ('event', 'emailsignupbuttonclick', {});
+    // console.log('BingEmailSignup emailsignupbuttonclick Fired');
+}
+
+
+</script>
+<noscript><img src="//bat.bing.com/action/0?ti=4061795&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
+
+
+<script type="text/javascript">
+        function submitPromoForm(){
+                  var emailId = $('#promoEmailBlock_emailfield').val();
+            if ( /(.+)@(.+){2,}\.(.+){2,}/.test($('#promoEmailBlock_emailfield').val()) ) {
+                $.post($('#promoEmailBlock form').attr('action'),
+               { email: $('#promoEmailBlock_emailfield').val() },
+               function(data){
+                addToKlaviyoList(emailId);
+                   $('#promoEmailBlockMessage').html("Your email id is saved.");
+           },
+           'html');
+            } else {
+                $('#promoEmailBlockMessage').html("Invalid email id.");
+            }
+        return false;
+
+        }
+
+        function addToKlaviyoList(emailId){
+            $.ajax({
+                url: "add_members_to_list.php",
+                type: "post",
+                data: {email : emailId},
+                success: function (response) {
+                    console.log("klavio success")
+                },
+                error: function(jqXHR, textStatus, errorThrown) {
+                   console.log(textStatus, errorThrown);
+                }
+            });
+        }
+</script>
+<script src="https://chat-assets.frontapp.com/v1/chat.bundle.js"></script>
+<script>
+window.FrontChat('init', {chatId: '830da5d6148816ecf229f08427f842ce', useDefaultLauncher: true});
+</script>
+</body>
+</html>

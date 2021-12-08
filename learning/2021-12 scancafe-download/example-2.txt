@@ -1,0 +1,33 @@
+I have a list of tab-separated urls, and target file names, urls_to_download.txt, for example:
+
+first_file.jpg\thttps://www.google.co.il/images/srpr/logo11w.png
+/subdir_1/second_file.jpg\thttps://www.google.co.il/images/srpr/logo12w.png
+...
+last_file.jpg\thttps://www.google.co.il/images/srpr/logo99w.png
+
+which I want to download using several connections.
+
+This I can do, for example, by:
+
+cat urls_to_download.txt | xargs -n 1 -P 10 wget -nc
+
+
+
+
+There are some ways to control the number of parallel tasks, which however are more or less complicated to a shell script.
+
+A very simple way to control the number of parallel tasks, which ensures that there are at most 20 wget processes.
+
+#!/bin/bash
+NUMBER=0
+while read FILENAME URL
+do
+    wget -nc -O "./$FILENAME" "$URL" &   # So `wget` runs in background
+    NUMBER=$((NUMBER + 1))
+    if [ $NUMBER -gt 20 ]
+    then
+        wait   # wait all background process to finish
+        NUMBER=0
+    fi
+done < input.txt
+wait
