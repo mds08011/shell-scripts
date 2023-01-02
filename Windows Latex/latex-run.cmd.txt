@@ -1,0 +1,80 @@
+https://nimalsweblog.wordpress.com/2010/08/29/latex-on-windows-with-miktex-and-notepad/
+
+https://old.reddit.com/r/LaTeX/comments/6grul7/using_notepad_to_compile_latex/
+
+You can use the "Run" functions in Notepad++ to execute any command you want.
+
+What I would suggest you is creating a command file (.cmd) that performs the compilation and handles the result according to your need (e.g. run pdflatex/xelatex, then biblatex/biber, then pdflatex again, use a special output dir, etc., then display the file...), then have N++ invoke it.
+
+You could then have N++ invoke :
+
+YOUR_CMD_FILE.cmd $(CURRENT_DIRECTORY) $(NAME_PART)
+
+$(NAME_PART) and $(CURRENT_DIRECTORY) are N++ environment variables
+
+YOUR_CMD_FILE could be a script like this one (for example)
+
+set texdir=%1
+set texfilename=%2
+cd %texdir%
+xelatex -synctex=1 -interaction=nonstopmode -output-directory=build %texfilename%.tex
+biber build/%texfilename%
+xelatex -synctex=1 -output-directory=build -interaction=nonstopmode %texfilename%.tex    
+xelatex -synctex=1 -output-directory=build -interaction=nonstopmode %texfilename%.tex
+"C:/Program Files (x86)/Adobe/Reader 11.0/Reader/AcroRd32.exe" build/%texfilename%.pdf
+exit    
+
+--------------------
+
+Basically, I wouldn't call this programming, this is more scripting to me. Here is a little explanation on the example I provided :
+
+Once you have created your .tex document, you need to compile it to get the final, fancy PDF render. Depending on the complexity of the document, the compilation may require multiple compilers to interact : the LaTeX compiler itself, but also the indexing / mathematical / bibliographic engines. As they are run, each of these engines will create a certain number of files and indications, which will be re-combined by the LaTex compiler during a final compilation.
+
+For example, the first LaTeX compilation will produce a list of the bibliographic entries that are cited in the documents. Then, the bibliographic engine (biber, in the example) will process these indications and create a file telling the LaTeX compiler what to print in regard of each cited entry. The LateX compiler will then run agasin, taking those data into consideration and typesetting them. Some packages and options require that the final compilation is done twice.
+
+Here is an explanation of the script itself :
+
+set texdir=%1
+set texfilename=%2
+
+The script is called by Notepad++ and is being passed two arguments : The directory where the tex file resides, and the name of the file without extension. We record those arguments into variables texdir and texfilename.
+
+cd %texdir%
+
+Then, we cd (Change Directory) to texdir, where the file can be found.
+
+xelatex -synctex=1 -interaction=nonstopmode -output-directory=build %texfilename%.tex
+
+At this point, we are in the texdir folder. We can then launch XeLaTex : after some special instructions (Use SyncTeX, minimize user interaction during compilation, and use the build folder as target directory), we provide it with the name of the texfile we want it to compile.
+
+biber build/%texfilename%
+
+After that, we're going to run biber, a bibliographic engine, which is instructed to look for the file name (without the extension) in the build directory. Biber knows exactly what it needs to process, so there's no need for more in this example.
+
+xelatex -synctex=1 -output-directory=build -interaction=nonstopmode %texfilename%.tex    
+xelatex -synctex=1 -output-directory=build -interaction=nonstopmode %texfilename%.tex
+
+Once biber's job is done, we launch XeLaTex twice with the same settings. During those iterations, XeLaTex will take the bibliographic data into account and integrate them into the PDF file.
+
+"C:/Program Files (x86)/Adobe/Reader 11.0/Reader/AcroRd32.exe" build/%texfilename%.pdf
+
+Finally, we tell Acrobat Reader to open the pdf file we just produced...
+
+exit
+
+...and we simply tell Windows to end the script
+
+
+------------
+
+:: Cleanup Function
+:cleanup
+:: del *.log
+del *.dvi
+del *.aux
+del *.bbl
+del *.blg
+del *.brf
+del *.out
+goto:eof
+
